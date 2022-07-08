@@ -4,7 +4,7 @@ Willkommen auf der Homepage von Regional Marriagic!
 
 ![MiSi's engagement exitment](/assets/img/verlobung.jpg)
 
-Du hast es also tatsächlich diese Seite gefunden, kleines Füchslein, Du... :muscle:
+Du hast es also tatsächlich diese Seite gefunden, kleines Füchslein, Du... 💪🦊😉
 
 Gratulation! Als Belohnung für Deine Suche bekommst du hier noch drei schöne Bilder:
 
@@ -16,4 +16,4 @@ Gratulation! Als Belohnung für Deine Suche bekommst du hier noch drei schöne B
 
 
 ---
-*made with [github pages](https://pages.github.com/) by flashcup*
+*made with [github pages](https://pages.github.com/) by jaedu*
