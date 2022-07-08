@@ -13,3 +13,7 @@ Gratulation! Als Belohnung für Deine Suche bekommst du hier noch drei schöne B
 ![MiSi's fotoshoot](/assets/img/fotoshoot.jpg)
 
 ![MiSi's civil marriage](/assets/img/standesamt.jpg)
+
+
+
+###### made with [github pages](https://pages.github.com/) by flashcup
